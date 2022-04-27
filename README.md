@@ -1,4 +1,4 @@
-# Project Name - change to the name of your project
+# HTML/CSS Module 1 Challenge
 
 ## Table of contents
 
@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Accessibility Test Screenshot](./assets/images/screen_shot.jpg)
 
 ### Links
 
