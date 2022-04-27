@@ -43,8 +43,8 @@ THEN I find a concise, descriptive title
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/dnsnguy08/html-css-1](https://github.com/dnsnguy08/html-css-1)
+- Live Site URL: [https://dnsnguy08.github.io/html-css-1/](https://dnsnguy08.github.io/html-css-1/)
 
 ## My process
 
